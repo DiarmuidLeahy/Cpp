@@ -2,6 +2,7 @@
 
 using namespacestd;
 
-int main(){
-
+int main()
+{
+  cout << "Hello world!\n";
 }
