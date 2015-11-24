@@ -1,9 +1,3 @@
-/*
- * Complex.cpp
- *
- *  Created on: Oct 18, 2012
- *      Author: se312001
- */
 
 #include <iostream>
 #include <stdlib.h>

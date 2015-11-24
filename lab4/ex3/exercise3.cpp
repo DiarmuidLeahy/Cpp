@@ -1,8 +1,4 @@
-/*
-brian mitchell
-12261769
-Main function for exercise3 in lab 4
-*/
+
 #include <iostream>
 #include <string>
 #include "MyComplex.h"

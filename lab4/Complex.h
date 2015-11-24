@@ -1,9 +1,3 @@
-/*
- * Complex.h
- *
- *  Created on: Oct 18, 2012
- *      Author: se312001
- */
 
 #ifndef COMPLEX_H_
 #define COMPLEX_H_
